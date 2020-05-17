@@ -41,14 +41,14 @@
    * Verbose version identifier which should contain a reference to the location
    * from where the binary was downloaded or the source code was compiled.
    */
-  #define DETAILED_BUILD_VERSION "Creality 3D"
+  #define DETAILED_BUILD_VERSION "Creality 3D-MH"
 
   /**
    * The STRING_DISTRIBUTION_DATE represents when the binary file was built,
    * here we define this default string as the date where the latest release
    * version was tagged.
    */
-  #define STRING_DISTRIBUTION_DATE "2019-04-12"
+  #define STRING_DISTRIBUTION_DATE "2020-05-17"
 
   /**
    * Required minimum Configuration.h and Configuration_adv.h file versions.
